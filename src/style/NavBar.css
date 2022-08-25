@@ -1,0 +1,8 @@
+.borderNavBar {
+  border-bottom: 1px solid black;
+}
+
+.stickyNav {
+  position: sticky;
+  top: 0;
+}
