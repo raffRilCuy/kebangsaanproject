@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kebangsaanproject/static/css/main.152bea1c.css",
+    "main.js": "/kebangsaanproject/static/js/main.743c79e9.js",
+    "static/media/sekolah.jpeg": "/kebangsaanproject/static/media/sekolah.7d7c94d5edd6db99bba7.jpeg",
+    "static/media/bangun.jpeg": "/kebangsaanproject/static/media/bangun.4d40eaf544b445e42249.jpeg",
+    "index.html": "/kebangsaanproject/index.html",
+    "main.152bea1c.css.map": "/kebangsaanproject/static/css/main.152bea1c.css.map",
+    "main.743c79e9.js.map": "/kebangsaanproject/static/js/main.743c79e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.152bea1c.css",
+    "static/js/main.743c79e9.js"
+  ]
+}
